@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/YouTube-redux/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/YouTube-redux/static/js/main.e7534a81.chunk.js",
+    "main.js.map": "/YouTube-redux/static/js/main.e7534a81.chunk.js.map",
+    "runtime-main.js": "/YouTube-redux/static/js/runtime-main.d7c08470.js",
+    "runtime-main.js.map": "/YouTube-redux/static/js/runtime-main.d7c08470.js.map",
+    "static/css/2.f3c4d3e1.chunk.css": "/YouTube-redux/static/css/2.f3c4d3e1.chunk.css",
+    "static/js/2.69b45daa.chunk.js": "/YouTube-redux/static/js/2.69b45daa.chunk.js",
+    "static/js/2.69b45daa.chunk.js.map": "/YouTube-redux/static/js/2.69b45daa.chunk.js.map",
+    "index.html": "/YouTube-redux/index.html",
+    "precache-manifest.cd8bb20b63f97fde869176ff4a03d075.js": "/YouTube-redux/precache-manifest.cd8bb20b63f97fde869176ff4a03d075.js",
+    "service-worker.js": "/YouTube-redux/service-worker.js",
+    "static/css/2.f3c4d3e1.chunk.css.map": "/YouTube-redux/static/css/2.f3c4d3e1.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/YouTube-redux/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.69b45daa.chunk.js.LICENSE.txt": "/YouTube-redux/static/js/2.69b45daa.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/YouTube-redux/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/youtubeLogo.png": "/YouTube-redux/static/media/youtubeLogo.adcaaacb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7c08470.js",
+    "static/css/2.f3c4d3e1.chunk.css",
+    "static/js/2.69b45daa.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e7534a81.chunk.js"
+  ]
+}
